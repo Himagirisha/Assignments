@@ -1,0 +1,55 @@
+1. What do you understand by the universal selector?
+ANS-An asterisk ( i.e. "*" ) is used to denote a CSS universal selector.  This is useful when you want to set a style for of all the elements of an HTML page 
+
+2. What are the different types of positions?
+Ans- STATIC, FIXED, ABSOLUTE, RELATIVE and STICKY
+
+3. What are the elements of the CSS Box Model?
+Ans-Margin,Border, Padding, Content
+
+4. How can CSS be integrated into an HTML page?
+Ans- Using Link Tag
+
+5. Explain a few advantages of CSS. 
+Ans- COde Reusability
+     Better Website Speed
+     Time Saving
+
+6.  What is meant by RGB
+Ans- RED BLUE GREEN
+
+7. What is the difference between a class and an ID?
+Ans-Class can select multiple ELement but ID is used to select a single element
+
+8. Name media types allowed by CSS.
+Ans- Screen, TV, Embossed, Braille.
+
+9. How can you use CSS to control image repetition?
+Ans-  background-repeat: no-repeat;
+
+10.  Tell us about the property used for image scroll controlling?
+Ans- Background-attachment
+
+11. Name some font-related CSS attributes
+Ans- Font-size and font-style
+
+12. Explain responsive web design. 
+Ans - RWD is creating webpages that look good in all devices(automatically adjust for diff screensizes and viewport)
+
+13. What is VH/VW (viewport height/ viewport width) in CSS?
+Ans- It is the user visible area of web page
+
+14. What is the difference between inline, inline-block, and block?
+Ans- 
+
+15. What are the differences between adaptive design and responsive design?
+Ans- A responsive design can change its layout and appearance based on the screen size of the device it's accessed on, from a large desktop computer to a small mobile phone. 
+An adaptive design requires the creation of a different layout for each device the website will be accessed on.
+
+16. What are the different ways to hide the element using CSS?
+ANS- Display: none or Visiblity : hidden
+
+17. What does !important mean in CSS?
+
+18. Tell  about CSS float property.
+Ans- The float property specifies whether an element should float to the left, right, or not at all.
